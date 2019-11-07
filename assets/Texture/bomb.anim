@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bombicon",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bc07a0c1-76aa-4259-89b8-628e2c7505c3"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "1ad1ed5c-3e5d-4e3f-8b8c-97bf97e0bf98"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "acfc5a5e-5708-444a-86ab-e84e44025b6e"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "8e2cb3bb-a8e4-4cc4-9a6d-9c7397f683a2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

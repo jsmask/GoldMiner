@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "123d613c-3a4f-4ebf-bb13-02cf25b6d2c3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "mine_rock_b": {
+      "ver": "1.0.3",
+      "uuid": "ccc6d6e1-fd95-45da-bb23-3ce36bdeeffc",
+      "rawTextureUuid": "123d613c-3a4f-4ebf-bb13-02cf25b6d2c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 76,
+      "height": 70,
+      "rawWidth": 76,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
