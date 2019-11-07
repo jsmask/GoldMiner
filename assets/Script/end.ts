@@ -54,7 +54,7 @@ export default class End extends cc.Component {
         switch (this.key) {
             case 0:
                 GAME.level = 1;
-                GAME.score = GAME.score;
+                GAME.score = 0;
                 break;
             case 1:
                 GAME.level += 1;
