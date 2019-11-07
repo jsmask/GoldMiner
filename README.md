@@ -7,6 +7,6 @@
 
 展示：https://jsmask.github.io/gold-miner/
 
-![imgame game][http://pic.yupoo.com/jsmask/55edd63b/e17e0178.png]
+![Image game][http://pic.yupoo.com/jsmask/55edd63b/e17e0178.png]
 
 PS:素材来源于网络
