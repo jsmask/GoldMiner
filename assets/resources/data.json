@@ -60,7 +60,7 @@
         ]
     },
     "level2": {
-        "target": 2000,
+        "target": 1600,
         "time": 60,
         "gold": [
             {
@@ -140,7 +140,7 @@
         ]
     },
     "level3": {
-        "target": 3000,
+        "target": 2400,
         "time": 60,
         "gold": [
             {
@@ -347,7 +347,7 @@
             }
         ]
     },"level5": {
-        "target": 5000,
+        "target": 3600,
         "time": 60,
         "gold": [
             {
